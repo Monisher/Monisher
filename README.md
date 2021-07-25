@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning python
 - 📫 You can reach me on discord @Monisher#5858
 - http://moeinzahab.com
+- https://blueorange.land
+- https://wikicactus.com
 
 <!---
 Monisher/Monisher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
